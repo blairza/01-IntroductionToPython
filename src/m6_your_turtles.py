@@ -44,7 +44,6 @@ napoleon.pen = rg.Pen('white',10)
 napoleon.left(90)
 napoleon.forward(100)
 napoleon.right(90)
-
 napoleon.pen = rg.Pen('blue',10)
 napoleon.right(180)
 
