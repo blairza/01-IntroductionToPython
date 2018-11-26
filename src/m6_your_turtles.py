@@ -59,3 +59,5 @@ for k in range(36):
 
 stalin.forward(20)
 napoleon.forward(20)
+
+window.close_on_mouse_click()
